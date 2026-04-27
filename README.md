@@ -1,4 +1,4 @@
-# ❤️ SQL Case Study: Facebook Posts with Heart Reactions
+# SQL Case Study: Facebook Posts with Heart Reactions
 
 ## 📌 Problem
 Find all Facebook posts that received at least one **'heart' reaction**.
